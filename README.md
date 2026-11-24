@@ -1,4 +1,4 @@
-# One motor. Two links. Model predictive control.
+# Real-Time Model Predictive Control for Pendubot Swing-Up
 
 **Pendubot swing-up with SSQP** · euROBIN / CloudPendulum workshop · 24 November 2026
 
