@@ -1,0 +1,8 @@
+token.txt
+token*.txt
+.env
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+trial_*.npz
+pulse_*.npz

@@ -1,0 +1,6 @@
+# Python dependencies for the participant notebook.
+# Use a CloudPendulum kernel providing pycloudpendulumbenchmark and pycloudpendulum.
+numpy>=1.24
+matplotlib>=3.7
+ipykernel>=6
+ssqp
